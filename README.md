@@ -23,5 +23,5 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 ## How to use the template 
 
 ```
-npx degit ihor-debelyi/nextjs-starter-template folder-name
+npx degit https://github.com/ihor-debelyi/nextjs-starter-template <new-project-name>
 ```
